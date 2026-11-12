@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34735538/README.md)
-
 <div align="center">
 
 <img src="banner.svg" alt="Ahsan Khan - Senior Cybersecurity Specialist, SOC Lead and Mentor" width="100%">
